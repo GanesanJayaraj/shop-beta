@@ -71,6 +71,7 @@
 }
 .line-2 {
     font-size: 12px;
+    letter-spacing: .075rem;
 }
 .flex {
     display: flex;
